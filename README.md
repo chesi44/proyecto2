@@ -1,2 +1,2 @@
 # proyecto2
-Este proyecto consiste en el desarrollo de un sitio web enfocado en la presentacion de productos de indumentaria, organizado en distintas secciones como hombre, mujer y niños. El objetivo principal fue aplicar conocimientos de HTML, CSS Y SCSS para lograr una estructura ordenada, un diseño atractivo y una navegacion clara.
+Este proyecto consiste en el desarrollo de un sitio web enfocado en la presentacion de productos de indumentaria, organizado en distintas secciones como hombre, mujer y niños. El objetivo principal fue aplicar conocimientos de HTML, CSS Y SCSS para lograr una estructura ordenada, un diseño atractivo y una navegacion clara, permitiendo al usuario explorar los productos de manera simple.
